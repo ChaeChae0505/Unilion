@@ -49,5 +49,7 @@
 
 7) Master와 merge하기 전 pull request
 - 수정한 사항을 팀원들에게 확인 요청하는 것 
+- Pull requests 에서 > 자동으로 확인 해줌 > create pull request
+
 8) Pull request 확인 후 Master와 Merge
 

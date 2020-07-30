@@ -1,4 +1,4 @@
-# Github와 협업 
+# Github 협업 
 ## 1. 자주쓰는 Git 명령어
 
 |명령어|사용|
@@ -19,4 +19,11 @@
 
 ## Github와 협업
 1) 원격 저장소 생성(Github repository 생성)
-2) 팀원을 col
+2) 팀원을 collaborator로 추가
+3) 초기 프로젝트 push
+4) 팀원들의 로컬에 프로젝트 pull
+5) 팀원 각자의 브랜치를 생성하여 작업
+6) 브랜치에 작업한 내용을 push
+7) Master와 merge하기 전 pull request
+8) Pull request 확인 후 Master와 Merge
+

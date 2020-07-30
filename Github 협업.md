@@ -53,3 +53,23 @@
 
 8) Pull request 확인 후 Master와 Merge
 
+## Fork 협업
+1) 작업하고 싶은 Repository fork 해오기
+- octocat / spoon-knife : github fork 시뮬예제
+- 상단에 Fork 버튼 눌러서 가져옴
+2) 자신의 로컬에서 작업
+- mkdir fork
+- cd fork
+- git clone url
+- ls
+- code. : 들어가서 내용수정
+
+3) 변경사항을 자신의 브랜치에 push
+- git add.
+- git commit -m " id change"
+- git checkout -b jungho : 정호라는 브랜치를 바로 만들어 체크아웃 하는 것
+- git push origin jungho
+
+4) 원본 레포지토리 소유자에게 pull request 요청
+5) 
+

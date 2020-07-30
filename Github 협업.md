@@ -71,5 +71,6 @@
 - git push origin jungho
 
 4) 원본 레포지토리 소유자에게 pull request 요청
-5) 
+5) 소유자가 pull request를 승인하여 merge하면 자동으로 collaborator 추가 
+
 

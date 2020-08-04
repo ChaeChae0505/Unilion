@@ -1,0 +1,20 @@
+## REST API 실습, Open API
+### 강의순서
+    JSONPlaceholder
+    Postman 실습
+    Open API
+    공적마스크 API 살펴보기
+
+### [[JSONPlaceholder]](https://jsonplaceholder.typicode.com/)
+- Fake online Rest API
+- Rest API를 테스트, 프로토타이핑 가능
+- 실습 내용: GET, POST, PUT, PATCH, DELETE
+    
+   Resource가 가지고 있는 URL을 알아야함(location)
+   
+### URL의 구성
+- 프로토콜 : http, https, file 등
+- 호스트 주소 : wwww.naver.com
+- 파일경로 : /home, /index.html
+- Query parameter : ?id=1&postId=1(검색 필터링, 데이터 교환시 사용 됨)
+

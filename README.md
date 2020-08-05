@@ -10,12 +10,12 @@
   * Gihub 협업 [[summary]](https://github.com/ChaeChae0505/Unilion/blob/1st/Github%20%ED%98%91%EC%97%85.md)
   
 
-## 마스크 알리미
-  * 강의 들어가기 [[summary]]()
-  * HTTP, JSON, API 개념 [[summary]]()
-  * Postman 실습, 공적 마스크, API살펴보기 [[summary]]()
-  * Javascript 기초 [[summary]]()
-  * Fetch API [[summary]]()
-  * 메인화면 UI 작업 [[summary]]()
-  * 메인화면 기능구현 [[summary]]()
-  * 시작화면 UI 및 기능 구현 [[summary]]()
+## [마스크 알리미](https://github.com/ChaeChae0505/Unilion/tree/master/2.mask)
+  * 강의 들어가기 
+  * HTTP, JSON, API 개념 
+  * Postman 실습, 공적 마스크, API살펴보기 
+  * Javascript 기초 
+  * Fetch API 
+  * 메인화면 UI 작업 
+  * 메인화면 기능구현
+  * 시작화면 UI 및 기능 구현 

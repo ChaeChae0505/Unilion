@@ -18,3 +18,12 @@
 - 파일경로 : /home, /index.html
 - Query parameter : ?id=1&postId=1(검색 필터링, 데이터 교환시 사용 됨)
 
+### [POSTMAN](https://www.postman.com/downloads/)
+
+1) +를 누른 후 Get > URL 입력 후 Send
+2) +를 누르고 POST > URL 입력 후 Send
+3) Body > raw > JSON > 원하는 부분을 입력 후 send > 실행창에 그대로 생김
+ * id는 유일해야하기 때문에 변경됨 
+4) GET https://jsonplaceholder.typicode.com/posts/1 > id 가 1인 url 접근 가능
+5) PUT : 전체 수정 / PATCH : 일부만 수정 
+6) DELETE > 빈문자열 반환 

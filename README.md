@@ -19,3 +19,15 @@
   * 메인화면 UI 작업 
   * 메인화면 기능구현
   * 시작화면 UI 및 기능 구현 
+  
+ ## [드리머리](https://github.com/ChaeChae0505/Unilion/tree/master/3.dream)
+  * Django, 그게 뭐야
+  * Hello, Django
+  * Django로 나를 소개해볼게 #1
+  * Django로 나를 소개해볼게 #2
+  * Django는 중복을 싫어해
+  * CRUD #1
+  * CRUD #2
+  
+  
+  
